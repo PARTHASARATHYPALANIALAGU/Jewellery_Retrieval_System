@@ -61,7 +61,6 @@ jewellery_search/
 ### 1. Prerequisites
 - Python 3.9+
 - Node.js 18+
-- [FFMPEG](https://ffmpeg.org/) (Required for voice search)
 
 ### 2. Backend Setup
 ```bash
